@@ -1,0 +1,1 @@
+Simulación de un robot seguidor de líneas utilizando el modelo e-puck en Webots. Implementa un controlador reactivo en Python basado en lectura de sensores infrarrojos para la corrección de trayectorias del seguimiento.
